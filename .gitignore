@@ -1,0 +1,5 @@
+# build/verification scratch — not part of the published site
+_build/
+_shots/
+.DS_Store
+Thumbs.db
